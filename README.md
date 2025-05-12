@@ -7,4 +7,4 @@ I'm working with MTA:SA at the moment...
 [![My Discord](https://img.shields.io/badge/efioxis-black?logo=github&logoColor=white)](https://github.com/efioxis)
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=lua,c,nodejs,vue,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua,nodejs,cs)](https://skillicons.dev)
